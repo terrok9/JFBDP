@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MSc Jose Fernando Barrera De Plaza</title>
-    <link>https://terrok9.github.io/JFBDP/</link>
-    <description>Recent content on MSc Jose Fernando Barrera De Plaza</description>
+    <title>Articles on MSc Jose Fernando Barrera De Plaza</title>
+    <link>https://terrok9.github.io/JFBDP/post/</link>
+    <description>Recent content in Articles on MSc Jose Fernando Barrera De Plaza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://terrok9.github.io/JFBDP/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://terrok9.github.io/JFBDP/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapter VI: Esmeralda</title>
       <link>https://terrok9.github.io/JFBDP/post/chapter-6/</link>
@@ -61,25 +61,6 @@
       <guid>https://terrok9.github.io/JFBDP/post/chapter-1/</guid>
       <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
 The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://terrok9.github.io/JFBDP/about/info/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://terrok9.github.io/JFBDP/about/info/</guid>
-      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://terrok9.github.io/JFBDP/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://terrok9.github.io/JFBDP/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out Formspree for a simple, free form service.
-Your NameEmail AddressAn email address is required.Message</description>
     </item>
     
   </channel>
