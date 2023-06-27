@@ -17,6 +17,7 @@ enableRobotsTXT = true
     title = "MSc Jose Fernando Barrera De Plaza"
     weight = 2
     contentDir = "content/es"
+	
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
