@@ -2,7 +2,7 @@ baseURL = "https://example.com/"
 languageCode = "en-us"
 title = "Home"
 theme = "personal-web"
-copyright="© Edna West: for theme structure"
+copyright="© Edna West: for theme usage search personal-web on Github"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -11,7 +11,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Hi, I'm Jose :man_technologist:"
-  sub = "Master in Economics with a Minor in Computational Math | NLP | Developer | Research"
+  sub = "M.A. in Economics with a Minor in Computational Math | NLP | Programmer & Developer | Economics and Computational Researcher"
 
 [params.main]
   latestPublishHeader = "My Latest Project"
@@ -19,6 +19,7 @@ pygmentsCodeFences=true
 [taxonomies]
   design = "designs"
   tech = "techs"
+  tags = "tags" # filtering boxes
 
 [blackfriday]
   hrefTargetBlank = true
@@ -41,24 +42,24 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  backgroundImage = '/images/side_bar.jpg' # Foto de Alexandre Debiève en Unsplash -- header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "" # - default "/images/edna-west.jpg"
+  logo = "/images/jose_fdo.jpg" # - default "/images/edna-west.jpg"
 [params.assets]
   favicon = ""
   customCSS = ""
 
 [params.social]
-  github = "https://github.com/"
-  twitter = "https://twitter.com/"
-  linkedin = "https://www.linkedin.com/in/"
-  medium = "https://medium.com/"
-  codepen = "https://codepen.io/"
-  facebook = "https://www.facebook.com/"
-  youtube = "https://www.youtube.com/"
-  instagram = "https://www.instagram.com/"
-  gitlab = "https://gitlab.com/"
-  keybase = "https://keybase.io/"
+  github = "https://github.com/terrok9"
+  #twitter = "https://twitter.com/"
+  linkedin = "https://www.linkedin.com/in/jfbdp"
+  #medium = "https://medium.com/"
+  #codepen = "https://codepen.io/"
+  #facebook = "https://www.facebook.com/"
+  #youtube = "https://www.youtube.com/"
+  #instagram = "https://www.instagram.com/"
+  #gitlab = "https://gitlab.com/"
+  #keybase = "https://keybase.io/"
 
 [params.contact]
   email = "jf.barrera10@uniandes.edu.co"
@@ -87,6 +88,13 @@ pygmentsCodeFences=true
   title = "Blog section"
   url = "/post/"
   weight = -100
+
+[[menu.main]]
+  identifier = "Courses"
+  name = "Courses"
+  title = "Relevant Courses"
+  url = "/courses/"
+  weight = -90
 
 [sitemap]
   changefreq = "monthly"
