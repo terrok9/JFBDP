@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <h1>Filtered Boxes</h1>
+  {{ range where .Site.RegularPages "Type" "in" "box" }}
+    {{ if in .Params.tags "filter1" }}
+      <div class="box">
+        <h2>{{ .Title }}</h2>
+        <p>{{ .Content }}</p>
+      </div>
+    {{ end }}
+  {{ end }}
+{{ end }}
