@@ -1,13 +1,13 @@
 ---
 title: HOME
-description: Welcome to this sample project
+description: My online profile
 images: ["/images/sample.jpg"]
 ---
 
-Hey,
+Hello! :wave: Nice to see you around!
 
-I'm Edna West, a Web Developer and Entrepreneur.
+I'm Jose Fernando Barrera De Plaza, M.A. in Economics with a high interest in Computer Science and Data Analysis.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus error cumque quisquam necessitatibus libero dolore porro, quo at molestiae modi voluptatibus iusto alias corporis. Accusamus, debitis, atque. Maiores, distinctio, neque.
+I programmed this webpage for you to know me better :smile:. Hope we can work or do research together.
 
 [Get to know me better](/about "Get to know me better")
