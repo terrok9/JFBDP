@@ -11,7 +11,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Hi, I'm Jose :man_technologist:"
-  sub = "M.A. in Economics with a Minor in Computational Math | NLP | Programmer & Developer | Economics and Computational Researcher"
+  sub = "M.A. Economics with a Minor in Computational Math | NLP | Developer"
 
 [params.main]
   latestPublishHeader = "My Latest Project"
