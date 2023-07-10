@@ -4,11 +4,11 @@ boxTitle: "Python"
 categorycourseName: "Python"
 ---
 - __Programming for Everybody (Getting Started with Python), 2020__
-
+Use variables to store, retrieve and calculate information. Utilize core programming tools such as functions and loops.
 Certificate link: {{% link_opens_new_tab link="https://www.coursera.org/account/accomplishments/certificate/9RGSBZ5MFJ5N" %}}Python{{% /link_opens_new_tab %}}
 
 - __Python Data Structures, 2020.__
-
+Explain the principles of data structures & how they are used. Accomplish multi-step tasks like sorting or looping using tuples.
 Certificate link: {{% link_opens_new_tab link="https://www.coursera.org/account/accomplishments/certificate/BV6WBQCRQYY8" %}}Python{{% /link_opens_new_tab %}}
 
 - __Using Databases with Python, 2020.__
