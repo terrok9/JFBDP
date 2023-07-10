@@ -1,25 +1,18 @@
 ---
-title: Sample project
-description: This is the description of our sample project
-date: "2019-05-02T19:47:09+02:00"
-jobDate: 2019
-work: [design, architecture]
-techs: [javascript, D3]
-designs: [Photoshop]
-thumbnail: sample-project/sample.jpg
-projectUrl: https://www.sampleorganization.org
+title: Tidytweets
+description: Python Library 
+date: "2023-07-10T19:47:09+02:00"
+jobDate: 2023
+work: [Text-processing, NLP]
+techs: [Python, spaCy]
+designs: [Programming]
+thumbnail: sample-project/tidytweets_logo.png
+projectUrl: https://pypi.org/project/tidytweets/
 testimonial:
-  name: John Doe
-  role: CEO @Example
-  image: sample-project/john.jpg
-  text: Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow's nest nipperkin
+  name: Jose Fernando Barrera
+  role: Lead-developer
+  image: sample-project/jose_fdo.jpg
+  text: Clean tweets to perform various NLP tasks such as topic analysis, word embeddings, sentiment analysis, etc.
 ---
 
-This would be a description of your sample project. You can add any content you'd like.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project attemps to enhance.

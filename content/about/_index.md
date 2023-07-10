@@ -1,10 +1,12 @@
 ---
 title: ABOUT
 description: Hey, I'm Jose
-images: ["/images/sample.jpg"]
+images: ["/images/radar_chart.png"]
 ---
 
 Hi stranger :wave:
+
+__TL;DR__ Know me better through a {{% link_opens_new_tab link="/images/radar_chart.png" %}}graph{{% /link_opens_new_tab %}} inspired by {{% link_opens_new_tab link="https://www.linkedin.com/feed/update/urn:li:activity:7066279024632709120?utm_source=share&utm_medium=member_desktop" %}}Ketan Gangal{{% /link_opens_new_tab %}}.
 
 I am Jose Fernando Barrera De Plaza, holding a master's degree in Economics with a specialization in Computational Mathematics. My academic pursuits revolve around a data-driven approach aimed at quantifying and elucidating phenomena through modeling and empirical research. I possess a robust programming background, proficient in diverse languages and software applications such as Python, Java, Stata, SQL, R, and Excel (including VBA Macros). Moreover, I have acquired proficiency in various visualization and storytelling tools such as Beamer in LaTeX, Business Intelligence (BI) platforms, and Looker Studio.
 

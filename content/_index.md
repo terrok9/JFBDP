@@ -1,7 +1,7 @@
 ---
 title: HOME
 description: My online profile
-images: ["/images/sample.jpg"]
+images: ["/images/tidytweets_logo.png"]
 ---
 
 Hello! :wave: Nice to see you around!
