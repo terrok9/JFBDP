@@ -2,18 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Designs on Home</title>
-    <link>https://example.com/designs/</link>
+    <link>https://terrok9.github.io/designs/</link>
     <description>Recent content in Designs on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Edna West: for theme usage search personal-web on Github</copyright>
-    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate><atom:link href="https://example.com/designs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jul 2023 19:47:09 +0200</lastBuildDate><atom:link href="https://terrok9.github.io/designs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Photoshop</title>
-      <link>https://example.com/designs/photoshop/</link>
-      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <title>Programming</title>
+      <link>https://terrok9.github.io/designs/programming/</link>
+      <pubDate>Mon, 10 Jul 2023 19:47:09 +0200</pubDate>
       
-      <guid>https://example.com/designs/photoshop/</guid>
+      <guid>https://terrok9.github.io/designs/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://terrok9.github.io/designs/research/</link>
+      <pubDate>Sat, 10 Sep 2022 19:47:09 +0200</pubDate>
+      
+      <guid>https://terrok9.github.io/designs/research/</guid>
       <description></description>
     </item>
     

@@ -8,11 +8,5 @@ techs: [Python, spaCy]
 designs: [Programming]
 thumbnail: sample-project/tidytweets_logo.png
 projectUrl: https://pypi.org/project/tidytweets/
-testimonial:
-  name: Jose Fernando Barrera
-  role: Lead-developer
-  image: sample-project/jose_fdo.jpg
-  text: Clean tweets to perform various NLP tasks such as topic analysis, word embeddings, sentiment analysis, etc.
 ---
-
-This project attemps to enhance.
+This project attemps to enhance the experience you have processing Social Listening Spanish data into working datasets for NLP modeling. In this project, we aim to do all the preprocessing required to establish a good corpus for different types of models, to accomplish that, we redefine tools for lemmatization, emoji and special unicode chars treatment, stopword removal and tokenization for Spanish language. 

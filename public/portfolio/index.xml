@@ -2,20 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PORTFOLIO on Home</title>
-    <link>https://example.com/portfolio/</link>
+    <link>https://terrok9.github.io/portfolio/</link>
     <description>Recent content in PORTFOLIO on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Edna West: for theme usage search personal-web on Github</copyright>
-    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate><atom:link href="https://example.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jul 2023 19:47:09 +0200</lastBuildDate><atom:link href="https://terrok9.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sample project</title>
-      <link>https://example.com/portfolio/sample-project/</link>
-      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <title>Tidytweets</title>
+      <link>https://terrok9.github.io/portfolio/sample-project/</link>
+      <pubDate>Mon, 10 Jul 2023 19:47:09 +0200</pubDate>
       
-      <guid>https://example.com/portfolio/sample-project/</guid>
-      <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>https://terrok9.github.io/portfolio/sample-project/</guid>
+      <description>This project attemps to enhance the experience you have processing Social Listening Spanish data into working datasets for NLP modeling. In this project, we aim to do all the preprocessing required to establish a good corpus for different types of models, to accomplish that, we redefine tools for lemmatization, emoji and special unicode chars treatment, stopword removal and tokenization for Spanish language.</description>
+    </item>
+    
+    <item>
+      <title>Safe Isolation</title>
+      <link>https://terrok9.github.io/portfolio/ingreso-solidario/</link>
+      <pubDate>Sat, 10 Sep 2022 19:47:09 +0200</pubDate>
+      
+      <guid>https://terrok9.github.io/portfolio/ingreso-solidario/</guid>
+      <description>This document explores the heterogeneities in compliance with the isolation measures within the municipalities of Colombia that were treated with Ingreso Solidario program implemented as an unconditional transfer given to poor individuals to face the economic and health emergency caused by Covid-19. Using local mobility data, the announcement of payment of Ingreso Solidario, and effective treatment of the program, a differences-in-differences methodology was proposed under the spectrum of an event study for the first disbursement of the Ingreso Solidario program, this was made in order to find heterogeneities between groups of poorer and richer municipalities.</description>
     </item>
     
   </channel>

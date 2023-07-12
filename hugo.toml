@@ -83,18 +83,27 @@ pygmentsCodeFences=true
   weight = -110
 
 [[menu.main]]
-  identifier = "blog"
-  name = "Post"
-  title = "Blog section"
-  url = "/post/"
+  identifier = "teaching"
+  name = "Teaching"
+  title = "Teaching"
+  url = "/teaching/"
   weight = -100
-
+  
 [[menu.main]]
   identifier = "Courses"
   name = "Courses"
   title = "Relevant Courses"
   url = "/courses/"
   weight = -90
+
+##[[menu.main]]
+##  identifier = "blog"
+##  name = "Posts"
+##  title = "Blog section"
+##  url = "/post/"
+##  weight = -80
+
+
 
 [sitemap]
   changefreq = "monthly"

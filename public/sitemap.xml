@@ -2,99 +2,104 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/post/getting-started/</loc>
-    <lastmod>2019-05-03T09:37:55+02:00</lastmod>
+    <loc>https://terrok9.github.io/designs/</loc>
+    <lastmod>2023-07-10T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2019-05-03T09:37:55+02:00</lastmod>
+    <loc>https://terrok9.github.io/</loc>
+    <lastmod>2023-07-10T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2019-05-03T09:37:55+02:00</lastmod>
+    <loc>https://terrok9.github.io/portfolio/</loc>
+    <lastmod>2023-07-10T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/portfolio-definition/</loc>
-    <lastmod>2019-05-02T19:49:05+02:00</lastmod>
+    <loc>https://terrok9.github.io/designs/programming/</loc>
+    <lastmod>2023-07-10T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/techs/d3/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <loc>https://terrok9.github.io/techs/python/</loc>
+    <lastmod>2023-07-10T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/designs/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <loc>https://terrok9.github.io/techs/spacy/</loc>
+    <lastmod>2023-07-10T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/techs/javascript/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <loc>https://terrok9.github.io/techs/</loc>
+    <lastmod>2023-07-10T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/designs/photoshop/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <loc>https://terrok9.github.io/portfolio/sample-project/</loc>
+    <lastmod>2023-07-10T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/portfolio/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <loc>https://terrok9.github.io/designs/research/</loc>
+    <lastmod>2022-09-10T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/portfolio/sample-project/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <loc>https://terrok9.github.io/portfolio/ingreso-solidario/</loc>
+    <lastmod>2022-09-10T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/techs/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <loc>https://terrok9.github.io/techs/stata/</loc>
+    <lastmod>2022-09-10T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/archetypes/</loc>
-    <lastmod>2019-05-02T19:25:30+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://example.com/post/shortcodes/</loc>
+    <loc>https://terrok9.github.io/post/</loc>
     <lastmod>2019-04-29T16:18:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/config-file/</loc>
-    <lastmod>2019-04-20T16:18:12+01:00</lastmod>
+    <loc>https://terrok9.github.io/post/shortcodes/</loc>
+    <lastmod>2019-04-29T16:18:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/pages/</loc>
-    <lastmod>2019-04-20T16:18:12+01:00</lastmod>
+    <loc>https://terrok9.github.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/define-specific-og-image/</loc>
-    <lastmod>2019-04-20T11:14:59+02:00</lastmod>
+    <loc>https://terrok9.github.io/courses/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://terrok9.github.io/courses/box3/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/courses/</loc>
+    <loc>https://terrok9.github.io/courses/box4/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/courses/box1/</loc>
+    <loc>https://terrok9.github.io/courses/box5/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://terrok9.github.io/courses/box1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://terrok9.github.io/courses/box2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://terrok9.github.io/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://terrok9.github.io/teaching/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

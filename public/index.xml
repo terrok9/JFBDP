@@ -2,100 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HOME on Home</title>
-    <link>https://example.com/</link>
+    <link>https://terrok9.github.io/</link>
     <description>Recent content in HOME on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Edna West: for theme usage search personal-web on Github</copyright>
-    <lastBuildDate>Fri, 03 May 2019 09:37:55 +0200</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jul 2023 19:47:09 +0200</lastBuildDate><atom:link href="https://terrok9.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Getting started</title>
-      <link>https://example.com/post/getting-started/</link>
-      <pubDate>Fri, 03 May 2019 09:37:55 +0200</pubDate>
+      <title>Tidytweets</title>
+      <link>https://terrok9.github.io/portfolio/sample-project/</link>
+      <pubDate>Mon, 10 Jul 2023 19:47:09 +0200</pubDate>
       
-      <guid>https://example.com/post/getting-started/</guid>
-      <description>&lt;p&gt;Here are some details to help you getting started with this theme.&lt;/p&gt;</description>
+      <guid>https://terrok9.github.io/portfolio/sample-project/</guid>
+      <description>This project attemps to enhance the experience you have processing Social Listening Spanish data into working datasets for NLP modeling. In this project, we aim to do all the preprocessing required to establish a good corpus for different types of models, to accomplish that, we redefine tools for lemmatization, emoji and special unicode chars treatment, stopword removal and tokenization for Spanish language.</description>
     </item>
     
     <item>
-      <title>Portfolio Definition</title>
-      <link>https://example.com/post/portfolio-definition/</link>
-      <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
+      <title>Safe Isolation</title>
+      <link>https://terrok9.github.io/portfolio/ingreso-solidario/</link>
+      <pubDate>Sat, 10 Sep 2022 19:47:09 +0200</pubDate>
       
-      <guid>https://example.com/post/portfolio-definition/</guid>
-      <description>&lt;p&gt;Here are some details about the portfolio settings.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://example.com/post/images/portfolio-example.png&#34;
-         alt=&#34;Example of Portfolio page&#34;/&gt;&lt;figcaption&gt;
-            &lt;p&gt;Example of Portfolio page&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;</description>
-    </item>
-    
-    <item>
-      <title>Sample project</title>
-      <link>https://example.com/portfolio/sample-project/</link>
-      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
-      
-      <guid>https://example.com/portfolio/sample-project/</guid>
-      <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>Archetypes management</title>
-      <link>https://example.com/post/archetypes/</link>
-      <pubDate>Thu, 02 May 2019 19:25:30 +0200</pubDate>
-      
-      <guid>https://example.com/post/archetypes/</guid>
-      <description>&lt;p&gt;The archetypes are defined in the &lt;code&gt;archetypes&lt;/code&gt; folder, for both post and portfolio.&lt;/p&gt;</description>
+      <guid>https://terrok9.github.io/portfolio/ingreso-solidario/</guid>
+      <description>This document explores the heterogeneities in compliance with the isolation measures within the municipalities of Colombia that were treated with Ingreso Solidario program implemented as an unconditional transfer given to poor individuals to face the economic and health emergency caused by Covid-19. Using local mobility data, the announcement of payment of Ingreso Solidario, and effective treatment of the program, a differences-in-differences methodology was proposed under the spectrum of an event study for the first disbursement of the Ingreso Solidario program, this was made in order to find heterogeneities between groups of poorer and richer municipalities.</description>
     </item>
     
     <item>
       <title>Shortcodes</title>
-      <link>https://example.com/post/shortcodes/</link>
+      <link>https://terrok9.github.io/post/shortcodes/</link>
       <pubDate>Mon, 29 Apr 2019 16:18:12 +0100</pubDate>
       
-      <guid>https://example.com/post/shortcodes/</guid>
+      <guid>https://terrok9.github.io/post/shortcodes/</guid>
       <description>&lt;p&gt;Introduction of the shortcodes defined in the personal-web theme.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Config File</title>
-      <link>https://example.com/post/config-file/</link>
-      <pubDate>Sat, 20 Apr 2019 16:18:12 +0100</pubDate>
+      <title>Excel VBA Courses</title>
+      <link>https://terrok9.github.io/courses/box3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/config-file/</guid>
-      <description>&lt;p&gt;Here is the basic config file used for personal-web.&lt;/p&gt;
-&lt;p&gt;You can use it as a base for your website.&lt;/p&gt;</description>
+      <guid>https://terrok9.github.io/courses/box3/</guid>
+      <description>Excel/VBA for Creative Problem Solving, Part 1, 2020. University of Colorado Boulder. Build powerful programming, automation, and customization capabilities available with Visual Basic for Applications (VBA). Certificate link: Excel
+Excel/VBA for Creative Problem Solving, Part 2, 2020. University of Colorado Boulder. Learn how to work with arrays and import/export arrays from/to Excel using VBA code. Learn how to work with text strings and write data to .txt files and import information from .</description>
     </item>
     
     <item>
-      <title>Pages</title>
-      <link>https://example.com/post/pages/</link>
-      <pubDate>Sat, 20 Apr 2019 16:18:12 +0100</pubDate>
+      <title>Machine Learning Courses</title>
+      <link>https://terrok9.github.io/courses/box4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/pages/</guid>
-      <description>&lt;p&gt;Variables you can use in pages&lt;/p&gt;</description>
+      <guid>https://terrok9.github.io/courses/box4/</guid>
+      <description>Introduction to Deep Learning, 2020. HSE University. Build and test models using Tensorflow including but not limited to Recurrent Neural Network (RNN), Deep Learning, and Convolutional Neural Network (CNN). This modelling were pack with theorical and practical content to fully understand the mathematical and empirical concepts for each type of model. We also had the chance to apply this knowledge on image classification and entity recognition. Certificate link: Machine Learning</description>
     </item>
     
     <item>
-      <title>Open Graph image</title>
-      <link>https://example.com/post/define-specific-og-image/</link>
-      <pubDate>Sat, 20 Apr 2019 11:14:59 +0200</pubDate>
+      <title>Non Programming Courses</title>
+      <link>https://terrok9.github.io/courses/box5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/define-specific-og-image/</guid>
-      <description>Within any page, you can add in the FrontMatter a images array that will be used to define a specific Open Graph image.
-For example, see content/_index.md page:
-images: [&amp;#34;/images/sample.jpg&amp;#34;] </description>
+      <guid>https://terrok9.github.io/courses/box5/</guid>
+      <description>Firm Level Economics: Consumer and Producer Behavior, 2020. University of Illinois at Urbana-Champaign. Economic concepts of Scarcity, Allocation, and Markets. Followed by a module related to different types of interventions that can occur on a specific market. Finishing with Firm Behavior, Production and Costs. Certificate link: Additional Course
+The Data Science of Health Informatics, 2020. Johns Hopkins University. Articulate different forms of clinical and population level data. Describe the data required to answer a healthcare information problem.</description>
     </item>
     
     <item>
       <title>Python Courses</title>
-      <link>https://example.com/courses/box1/</link>
+      <link>https://terrok9.github.io/courses/box1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/courses/box1/</guid>
-      <description></description>
+      <guid>https://terrok9.github.io/courses/box1/</guid>
+      <description>Programming for Everybody (Getting Started with Python), 2020. University of Michigan. Use variables to store, retrieve and calculate information. Utilize core programming tools such as functions and loops. Certificate link: Python
+Python Data Structures, 2020. University of Michigan. Explain the principles of data structures &amp;amp; how they are used. Accomplish multi-step tasks like sorting or looping using tuples. Certificate link: Python
+Using Databases with Python, 2020. University of Michigan. Use the Create, Read, Update, and Delete operations to manage databases.</description>
+    </item>
+    
+    <item>
+      <title>SQL Courses</title>
+      <link>https://terrok9.github.io/courses/box2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://terrok9.github.io/courses/box2/</guid>
+      <description>SQL for Data Science, 2020. UC Davis. Identify a subset of data needed from a column or set of columns and write a SQL query to limit to those results. Create an analysis table from multiple queries using the UNION operator. Use SQL commands to filter, sort, and summarize data. Manipulate strings, dates, &amp;amp; numeric data using functions to integrate data from different sources into fields with the correct format for analysis.</description>
     </item>
     
   </channel>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on Home</title>
+    <link>https://terrok9.github.io/designs/programming/</link>
+    <description>Recent content in Programming on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Edna West: for theme usage search personal-web on Github</copyright>
+    <lastBuildDate>Mon, 10 Jul 2023 19:47:09 +0200</lastBuildDate><atom:link href="https://terrok9.github.io/designs/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tidytweets</title>
+      <link>https://terrok9.github.io/portfolio/sample-project/</link>
+      <pubDate>Mon, 10 Jul 2023 19:47:09 +0200</pubDate>
+      
+      <guid>https://terrok9.github.io/portfolio/sample-project/</guid>
+      <description>This project attemps to enhance the experience you have processing Social Listening Spanish data into working datasets for NLP modeling. In this project, we aim to do all the preprocessing required to establish a good corpus for different types of models, to accomplish that, we redefine tools for lemmatization, emoji and special unicode chars treatment, stopword removal and tokenization for Spanish language.</description>
+    </item>
+    
+  </channel>
+</rss>
