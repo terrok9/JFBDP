@@ -6,7 +6,7 @@ jobDate: 2022
 work: [Economic Research, Webscraping, Event Study]
 techs: [Stata, Python]
 designs: [Research]
-thumbnail: Ingreso-solidario/KILLER.png
+thumbnail: ingreso-solidario/killer_graph.png
 projectUrl: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4268447
 ---
 This document explores the heterogeneities in compliance with the isolation measures within
